@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Asus\Desktop\пз №4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\Desktop\пз №4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Asus\Desktop\пз №4\ConsoleApplication1\Debug\ConsoleApplication1.exe
